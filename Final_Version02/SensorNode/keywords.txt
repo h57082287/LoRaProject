@@ -1,0 +1,10 @@
+# class
+MyLoRa	KEYWORD1
+
+# function
+setNext	KEYWORD2
+setHeader	KEYWORD2
+setData	KEYWORD2
+setRelay	KEYWORD2
+SendPacket	KEYWORD2
+PrintPacket	KEYWORD2
